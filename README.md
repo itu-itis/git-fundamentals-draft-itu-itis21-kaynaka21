@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub [modified by ada berfu kaynak 820210314//25.10.2021 11.27] 
+# :wave: The Basics of GitHub [modified by ada berfu kaynak 820210314//25.10.2021// saat:17.00] 
 
 ## 🤓 Course overview and learning outcomes 
 
